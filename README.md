@@ -1,4 +1,4 @@
-# Chapter 8
+# Wally Knysz
 
 <p align="center"><a href="http://tensorflowbook.com" target="_blank"><img src="http://i.imgur.com/9B8Pfkc.png"/></a></p>
 
@@ -9,5 +9,3 @@ Consider the following examples. You learn what makes people happy by interactin
 - **Concept 1**: Reinforcement learning
 
 ---
-
-* Listing 1-10: `rl.py`
